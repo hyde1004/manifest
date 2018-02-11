@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="https://github.com/hyde1004/" />
+	<project name="repo_a" path="repo_a" remote="origin" revision="branch_a" />
+	<project name="repo_b" path="repo_b" remote="origin" revision="branch_b" />
+</manifest>
