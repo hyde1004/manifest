@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="origin" fetch="/Users/hyde1004/repo_test/" />
-  <project name="repo_a" />
+	<remote name="origin" fetch="https://github.com/hyde1004" />
+	<project name="repo_a" />
 </manifest>
